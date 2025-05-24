@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋, I’m Javeria Khan
+# Hi, I’m Javeria Khan
 <h3><strong>A passionate Web Developer from Pakistan</strong></h3>
 </div>
 
