@@ -4,7 +4,7 @@
 <h3><strong>A passionate Web Developer from Pakistan</strong></h3>
 </div>
 
-- 🌱 I’m currently learning **Dart, JS, Flutter**
+- 🌱 I’m currently learning **MERN**
 - 💞️ I’m looking to collaborate on **Web Application**
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, MySQL
 - 📫 How to reach me javeriakhan0330@gmail.com
