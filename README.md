@@ -5,7 +5,7 @@
 </div>
 
 - 🌱 I’m currently learning **MERN**
-- 💞️ I’m looking to collaborate on **Web Application**
+- 💞️ I’m looking to collaborate on **Web & Mobile Application**
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, MySQL
 - 📫 How to reach me javeriakhan0330@gmail.com
 
@@ -18,6 +18,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="Microsoft SQL Server" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"  width="40" height="40" alt="Dart" />
+
 
 
 <!---
